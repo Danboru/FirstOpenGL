@@ -63,8 +63,8 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
         Matrix.multiplyMM(scratch, 0, mMVPMatrix, 0, mRotationMatrix, 0);
 
 
-        mTriangle.draw(scratch);
-        //mSquare.draw(scratch);
+        //mTriangle.draw(scratch);
+        mSquare.draw(scratch);
 
     }
 
