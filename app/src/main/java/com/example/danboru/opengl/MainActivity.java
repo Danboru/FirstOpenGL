@@ -11,12 +11,9 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-
         surfaceView = new myGLSurfaceView(this);
 
         setContentView(surfaceView);
-
     }
 
 }
