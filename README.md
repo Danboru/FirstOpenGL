@@ -5,3 +5,7 @@
 
 #Shape Persegi
 ![alt tag](https://github.com/Danboru/FirstOpenGL/blob/master/persegi.png)
+
+#Shape Bulat
+![alt tag](https://github.com/Danboru/FirstOpenGL/blob/master/bulat.png)
+
